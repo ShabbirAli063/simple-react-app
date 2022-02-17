@@ -1,7 +1,5 @@
 pipeline {
-    agent {
-       image 'node:lts-buster-slim'
-        }
+    agent 
     }
     environment {
         CI = 'true'
