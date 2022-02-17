@@ -1,7 +1,6 @@
 pipeline {
     agent {
-      
-            args '-p 3000:3000'
+       image 'node:lts-buster-slim'
         }
     }
     environment {
