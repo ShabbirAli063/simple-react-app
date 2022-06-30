@@ -25,3 +25,8 @@ pipeline {
         }
     }
 }
+
+
+dbpass:'acdefgtdbsge'
+accesskey=NKJAKASLNLANFLSNLFNNCLNSLKANL
+secretkey=5cwd6BdnGHJ76BHBBbkkd8jhbbdBBTFY
